@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\bin\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.exe
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\bin\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.deps.json
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\bin\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.runtimeconfig.json
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\bin\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\bin\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.pdb
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.Form1.resources
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.AssemblyInfo.cs
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.sourcelink.json
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\refint\ConvertorDeMoedasWindowsForms.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.pdb
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.genruntimeconfig.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ref\ConvertorDeMoedasWindowsForms.dll
