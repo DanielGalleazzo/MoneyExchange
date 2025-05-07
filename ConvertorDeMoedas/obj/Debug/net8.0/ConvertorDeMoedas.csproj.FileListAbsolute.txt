@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.AssemblyInfo.cs
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\ConvertorDeMoedas.exe
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\ConvertorDeMoedas.deps.json
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\ConvertorDeMoedas.runtimeconfig.json
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\ConvertorDeMoedas.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\ConvertorDeMoedas.pdb
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\Converto.B814FADD.Up2Date
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\refint\ConvertorDeMoedas.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.pdb
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.genruntimeconfig.cache
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ref\ConvertorDeMoedas.dll

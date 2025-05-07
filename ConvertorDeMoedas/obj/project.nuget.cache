@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMKD3UHsK6w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedas\\ConvertorDeMoedas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
