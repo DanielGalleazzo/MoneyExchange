@@ -9,10 +9,15 @@ namespace ExchangeRate_API
         static void Main(string[] args)
         {
             Rates.Import();
-            Console.WriteLine("Digite o valor em USD para conversão:");
+            Console.WriteLine("Você quer converter qual moeda");
+            Console.WriteLine("Ex: USD -- BRL / EUR -- BRL");
+            string NomeMoeda = Console.ReadLine();
+            Console.WriteLine("Para qual ?");
+            string NomeMoeda1 = Console.ReadLine();
+            Console.WriteLine("E a quantidade ?");
             double valor = double.Parse(Console.ReadLine());
-            double valorConvertido = Rates.ConvertCurrency(valor, "USD", "BRL");
-            Console.WriteLine( valor + "USD = R$" + valorConvertido + "BRL" );
+            double valorConvertido = Rates.ConvertCurrency(valor,NomeMoeda , NomeMoeda1);
+            Console.WriteLine("$" + valor + " " + NomeMoeda + "=" +  "" + valorConvertido + NomeMoeda1 );
         }
     }
 }

@@ -15,3 +15,4 @@ C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\refi
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.pdb
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.genruntimeconfig.cache
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ref\ConvertorDeMoedas.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net8.0\ConvertorDeMoedas.sourcelink.json
