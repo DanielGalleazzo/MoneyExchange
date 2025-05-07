@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|solutionrelative:convertordemoedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedas\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|solutionrelative:convertordemoedas\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedas\\conversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|solutionrelative:convertordemoedas\\conversionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedas\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|solutionrelative:convertordemoedas\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C70324EF-D011-4F0B-8097-8932F8717906}|ConvertorDeMoedas\\ConvertorDeMoedas.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedas\\api_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Rate.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedas\\Rate.cs",
               "RelativeDocumentMoniker": "ConvertorDeMoedas\\Rate.cs",
@@ -39,6 +39,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T00:22:01.087Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -55,15 +56,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ConversionRate.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedas\\ConversionRate.cs",
               "RelativeDocumentMoniker": "ConvertorDeMoedas\\ConversionRate.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedas\\ConversionRate.cs",
               "RelativeToolTip": "ConvertorDeMoedas\\ConversionRate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T00:10:24.832Z"
+              "WhenOpened": "2025-05-07T00:10:24.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,7 +75,7 @@
               "RelativeDocumentMoniker": "ConvertorDeMoedas\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedas\\Program.cs",
               "RelativeToolTip": "ConvertorDeMoedas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T23:44:00.397Z",
               "EditorCaption": ""
