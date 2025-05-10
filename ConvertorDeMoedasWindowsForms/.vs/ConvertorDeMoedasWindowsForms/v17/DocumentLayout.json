@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedaswindowsforms\\convertordemoedaswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\convertordemoedaswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|solutionrelative:convertordemoedaswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedaswindowsforms\\convertordemoedaswindowsforms\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|solutionrelative:convertordemoedaswindowsforms\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedaswindowsforms\\convertordemoedaswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|solutionrelative:convertordemoedaswindowsforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedaswindowsforms\\convertordemoedaswindowsforms\\api_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|solutionrelative:convertordemoedaswindowsforms\\api_obj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE1F0C14-DF70-466A-83EA-C8B6DC3AC010}|ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj|c:\\users\\danie\\desktop\\convertordemoedas\\convertordemoedaswindowsforms\\convertordemoedaswindowsforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,32 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.cs",
-              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\Form1.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.cs",
-              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "API_Obj.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\API_Obj.cs",
+              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\API_Obj.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\API_Obj.cs",
+              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\API_Obj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:37:10.967Z",
+              "WhenOpened": "2025-05-10T12:40:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Rates.cs",
+              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\Rates.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Rates.cs",
+              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\Rates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:38:21.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
-              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAqwF8AAAAqAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.cs",
+              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.cs",
+              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:33:12.596Z",
+              "WhenOpened": "2025-05-07T20:37:10.967Z",
               "EditorCaption": ""
             },
             {
@@ -61,6 +82,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T20:30:38.358Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
+              "RelativeToolTip": "ConvertorDeMoedasWindowsForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T20:33:12.596Z",
+              "EditorCaption": ""
             }
           ]
         }

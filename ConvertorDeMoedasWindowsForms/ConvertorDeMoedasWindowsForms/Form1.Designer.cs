@@ -62,6 +62,7 @@
             txQuantia1.Name = "txQuantia1";
             txQuantia1.Size = new Size(160, 23);
             txQuantia1.TabIndex = 2;
+            txQuantia1.TextChanged += txQuantia1_TextChanged;
             // 
             // txQuantia2
             // 
@@ -69,6 +70,7 @@
             txQuantia2.Name = "txQuantia2";
             txQuantia2.Size = new Size(160, 23);
             txQuantia2.TabIndex = 3;
+            txQuantia2.TextChanged += txQuantia2_TextChanged;
             // 
             // btConverter
             // 
@@ -78,15 +80,16 @@
             btConverter.TabIndex = 4;
             btConverter.Text = "Converter";
             btConverter.UseVisualStyleBackColor = true;
+            btConverter.Click += btConverter_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(641, 174);
+            label1.Location = new Point(598, 178);
             label1.Name = "label1";
-            label1.Size = new Size(38, 15);
+            label1.Size = new Size(0, 15);
             label1.TabIndex = 5;
-            label1.Text = "label1";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 

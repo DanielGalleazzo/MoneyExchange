@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2jk/l9rLFBQ=",
+  "dgSpecHash": "nBY4iKHhBrs=",
   "success": true,
   "projectFilePath": "C:\\Users\\danie\\Desktop\\ConvertorDeMoedas\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms\\ConvertorDeMoedasWindowsForms.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
