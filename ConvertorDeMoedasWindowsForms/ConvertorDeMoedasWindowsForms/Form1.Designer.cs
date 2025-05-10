@@ -33,12 +33,15 @@
             txQuantia1 = new TextBox();
             txQuantia2 = new TextBox();
             btConverter = new Button();
+            fontDialog1 = new FontDialog();
+            label1 = new Label();
             SuspendLayout();
             // 
             // cbMoeda1
             // 
             cbMoeda1.FormattingEnabled = true;
-            cbMoeda1.Location = new Point(100, 219);
+            cbMoeda1.Items.AddRange(new object[] { "AED", "ARS", "AUD", "BGN", "BRL", "BSD", "CAD", "CHF", "CLP", "CNY", "COP", "CZK", "DKK", "DOP", "EGP", "EUR", "FJD", "GBP", "GTQ", "HKD", "HRK", "HUF", "IDR", "ILS", "INR", "ISK", "JPY", "KRW", "KZT", "MXN", "MYR", "NOK", "NZD", "PAB", "PEN", "PHP", "PKR", "PLN", "PYG", "RON", "RUB", "SAR", "SEK", "SGD", "THB", "TRY", "TWD", "UAH", "USD", "UYU", "ZAR" });
+            cbMoeda1.Location = new Point(139, 219);
             cbMoeda1.Name = "cbMoeda1";
             cbMoeda1.Size = new Size(160, 23);
             cbMoeda1.TabIndex = 0;
@@ -47,6 +50,7 @@
             // cbMoeda2
             // 
             cbMoeda2.FormattingEnabled = true;
+            cbMoeda2.Items.AddRange(new object[] { "AED", "ARS", "AUD", "BGN", "BRL", "BSD", "CAD", "CHF", "CLP", "CNY", "COP", "CZK", "DKK", "DOP", "EGP", "EUR", "FJD", "GBP", "GTQ", "HKD", "HRK", "HUF", "IDR", "ILS", "INR", "ISK", "JPY", "KRW", "KZT", "MXN", "MYR", "NOK", "NZD", "PAB", "PEN", "PHP", "PKR", "PLN", "PYG", "RON", "RUB", "SAR", "SEK", "SGD", "THB", "TRY", "TWD", "UAH", "USD", "UYU", "ZAR" });
             cbMoeda2.Location = new Point(430, 219);
             cbMoeda2.Name = "cbMoeda2";
             cbMoeda2.Size = new Size(160, 23);
@@ -54,7 +58,7 @@
             // 
             // txQuantia1
             // 
-            txQuantia1.Location = new Point(100, 123);
+            txQuantia1.Location = new Point(139, 123);
             txQuantia1.Name = "txQuantia1";
             txQuantia1.Size = new Size(160, 23);
             txQuantia1.TabIndex = 2;
@@ -68,18 +72,29 @@
             // 
             // btConverter
             // 
-            btConverter.Location = new Point(166, 289);
+            btConverter.Location = new Point(257, 248);
             btConverter.Name = "btConverter";
-            btConverter.Size = new Size(320, 80);
+            btConverter.Size = new Size(228, 58);
             btConverter.TabIndex = 4;
             btConverter.Text = "Converter";
             btConverter.UseVisualStyleBackColor = true;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(641, 174);
+            label1.Name = "label1";
+            label1.Size = new Size(38, 15);
+            label1.TabIndex = 5;
+            label1.Text = "label1";
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(688, 450);
+            BackgroundImage = Properties.Resources.Texto_do_seu_parágrafo__3_;
+            ClientSize = new Size(750, 368);
+            Controls.Add(label1);
             Controls.Add(btConverter);
             Controls.Add(txQuantia2);
             Controls.Add(txQuantia1);
@@ -98,5 +113,7 @@
         private TextBox txQuantia1;
         private TextBox txQuantia2;
         private Button btConverter;
+        private FontDialog fontDialog1;
+        private Label label1;
     }
 }

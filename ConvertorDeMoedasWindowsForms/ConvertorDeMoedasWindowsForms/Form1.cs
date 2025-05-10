@@ -9,7 +9,8 @@ namespace ConvertorDeMoedasWindowsForms
 
         private void cbMoeda1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+        
+
         }
     }
 }

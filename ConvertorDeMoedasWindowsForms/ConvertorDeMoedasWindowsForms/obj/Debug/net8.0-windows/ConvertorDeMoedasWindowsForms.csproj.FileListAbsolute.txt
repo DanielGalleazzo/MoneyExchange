@@ -15,3 +15,4 @@ C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\Convertor
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.pdb
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.genruntimeconfig.cache
 C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ref\ConvertorDeMoedasWindowsForms.dll
+C:\Users\danie\Desktop\ConvertorDeMoedas\ConvertorDeMoedasWindowsForms\ConvertorDeMoedasWindowsForms\obj\Debug\net8.0-windows\ConvertorDeMoedasWindowsForms.Properties.Resources.resources

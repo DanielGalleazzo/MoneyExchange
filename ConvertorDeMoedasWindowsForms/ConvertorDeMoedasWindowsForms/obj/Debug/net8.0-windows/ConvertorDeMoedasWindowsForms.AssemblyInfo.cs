@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertorDeMoedasWindowsForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+498a276560bd3380ec24de14473e2adc01ecd949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77fc90934cde93a384f81da43a4b22f731652b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertorDeMoedasWindowsForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertorDeMoedasWindowsForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
