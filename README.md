@@ -1,19 +1,22 @@
-💱 MoneyExchange
-Uma aplicação de conversão de moedas desenvolvida em C# com Windows Forms. Insira um valor na primeira moeda e obtenha o valor equivalente na moeda desejada, utilizando uma API de câmbio em tempo real.
+## 💱 MoneyExchange
 
-🧰 Tecnologias Utilizadas
-C# (.NET Framework)
+Uma aplicação de conversão de moedas desenvolvida em C# com Windows Forms.  
+Insira um valor na primeira moeda e obtenha o valor equivalente na moeda desejada, utilizando uma API de câmbio em tempo real.
 
-Windows Forms
+---
 
-ExchangeRate-API – API pública de conversão de moedas
+## 🧰 Tecnologias Utilizadas
 
-🌐 Sobre a API de Conversão
-Este projeto utiliza a ExchangeRate-API para obter taxas de câmbio atualizadas entre o dólar americano (USD) e o real brasileiro (BRL).
+- C# (.NET Framework)  
+- Windows Forms  
+- ExchangeRate-API – API pública de conversão de moedas
 
-Atualização em tempo real das taxas de câmbio.
+---
 
-Resposta em JSON, facilmente manipulável em C#.
+## 🌐 Sobre a API de Conversão
 
-Plano gratuito disponível, ideal para testes e projetos pessoais.
+Este projeto utiliza a [ExchangeRate-API](https://www.exchangerate-api.com/) para obter taxas de câmbio atualizadas entre o dólar americano (USD) e o real brasileiro (BRL).
 
+- Atualização em tempo real das taxas de câmbio  
+- Resposta em JSON, facilmente manipulável em C#  
+- Plano gratuito disponível, ideal para testes e projetos pessoais
