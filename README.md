@@ -20,3 +20,9 @@ Este projeto utiliza a [ExchangeRate-API](https://www.exchangerate-api.com/) par
 - Atualização em tempo real das taxas de câmbio  
 - Resposta em JSON, facilmente manipulável em C#  
 - Plano gratuito disponível, ideal para testes e projetos pessoais
+
+---
+
+## Vídeo demonstrativo
+![Vídeo funcionando](https://raw.githubusercontent.com/DanielGalleazzo/MoneyExchange/refs/heads/main/Grava%C3%A7%C3%A3oMoneyExchange.gif)
+
